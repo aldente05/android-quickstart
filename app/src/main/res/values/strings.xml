@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">QuickStrat</string>
+    <string name="action_settings">Settings</string>
+    <string name="website">https://en.wikipedia.org/wiki/Film</string>
+    <string name="date">22 Oct 2015</string>
+    <string name="drawer_open"/>
+    <string name="drawer_close"/>
+
+    <!--//custom arrow-->
+    <string name="fa_chevron_right">&#xf054;</string>
+    <string name="fa_chevron_down">&#xf078;</string>
+
+    <string-array name="menu">
+        <item>HOME</item>
+        <item>PROSUCTS</item>
+        <item>CUSTOMER CARE</item>
+        <item>MY ACCOUNT</item>
+        <item>WISHLIST</item>
+        <item>CART</item>
+        <item>CHECKOUT</item>
+        <item>LOGOUT</item>
+    </string-array>
+</resources>
