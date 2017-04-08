@@ -1,5 +1,3 @@
-Aplikai Qoonoq
-
 Technology use :
 Java
 Retrofit with interceptor okhttp3
